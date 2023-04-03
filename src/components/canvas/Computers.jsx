@@ -5,7 +5,7 @@ import CanvasLoader from '../Loader';
 
 
 const Computers = ({ isMobile }) => {
-  const computer = useGLTF('./killer_beats_mixstation/scene.gltf')
+  const computer = useGLTF('./desktop_pc/scene.gltf')
 
 
   return (
